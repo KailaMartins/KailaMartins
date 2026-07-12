@@ -11,7 +11,7 @@ Transformando requisitos em soluções de software com foco em qualidade, organi
 
 💼 Atuo como **Analista de Sistemas**, com experiência em análise de requisitos, banco de dados e qualidade de software.
 
-🎓 Graduanda em Sistemas de Informação e apaixonada por tecnologia, sempre buscando aprender novas ferramentas e desenvolver soluções eficientes.
+🎓 Graduada em Sistemas de Informação pela UNEMAT e apaixonada por tecnologia, sempre buscando aprender novas ferramentas e desenvolver soluções eficientes.
 
 ---
 
