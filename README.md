@@ -1,4 +1,4 @@
-# Olá! 👋
+# Olá!
 
 Sou **Kaila Martins**.
 
