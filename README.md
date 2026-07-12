@@ -70,8 +70,3 @@ Busco aprimorar meus conhecimentos em desenvolvimento de software, banco de dado
 - LinkedIn: https://www.linkedin.com/in/kaila-martins-67424622a
 - E-mail:kailageovana@gmail.com
 
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KailaMartins&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KailaMartins&layout=compact&theme=tokyonight)
